@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gokberkalikulac
 - 👀 I’m interested in İOS Mobile App Development
 - 🌱 I’m currently learning HackingWifthSwift
+- 👀 I’m reading Develop In Swift Books and Official Documents
 - 📫 How to reach me via https://www.linkedin.com/in/g%C3%B6kberk-ali-kula%C3%A7-1076b7180/
 
 <!---
